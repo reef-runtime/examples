@@ -1,0 +1,9 @@
+{
+    "name": "Read ASCII File",
+    "codePath": "./read_ascii.c",
+    "dataset": {
+      "path": "./read_ascii.c.ds",
+      "name": "Calculate Primes.hms"
+    },
+    "language": "c"
+}
