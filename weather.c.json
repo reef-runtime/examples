@@ -1,6 +1,9 @@
 {
-    "name": "[C] Weather Analysis",
+    "name": "Weather Analysis",
     "codePath": "weather.c",
-    "dataset": "weather.bin",
+    "dataset": {
+      "path": "./weather.bin",
+      "name": "Weather_Data.bin"
+    },
     "language": "c"
 }
