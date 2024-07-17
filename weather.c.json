@@ -1,0 +1,6 @@
+{
+    "name": "[C] Weather Analysis",
+    "codePath": "weather.c",
+    "dataset": "weather.bin",
+    "language": "c"
+}
