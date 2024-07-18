@@ -1,0 +1,17 @@
+FAHRE HPI script version V0.1.0 für LINUX
+========================================================
+    ~> Lade Speiseangebot aus dem Internet herunter...
+    ~> Speiseangebot bereit. 12 Speisen geladen.
+======= MITTAGESSEN ========
+    - Angebot 6 | 2.15€ | Kichererbsencurry indischer Art mit Basmatireis
+    - Angebot 7 | 2.65€ | K4uterrchrei mit Rahmspinat und Salzkartoffeln
+    - Angebot 8 | 4.15€ | Seelachsfilet in Sesampanade mit hausgemachter Remoulade, dazu Pommes und bunter Salat
+    - Angebot 9 | 1.50€ | Schokopudding mit Dessertsauce
+    - Angebot 10 | 1.50€ | Rote Grctze mit veganer Dessertsauce
+======== ABENDESSEN ========
+    - Angebot 1 | 2.15€ | Bratwurst im Br6tchen
+    - Angebot 2 | 2.65€ | Bratwurst mit Kartoffelsalat oder Nudelsalat
+    - Angebot 3 | 3.15€ | Schweinesteak mit Kartoffelsalat oder Nudelsalat
+    - Angebot 4 | 4.15€ | Grillk4se mit Bulgursalat
+    - Angebot 5 | 2.15€ | Vegane Bratwurst im Br6tchen
+GC_VERBOSE: 0

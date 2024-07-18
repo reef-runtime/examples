@@ -7,8 +7,8 @@
         "name": "Reef_Logo.txt"
       },
       {
-        "path": "./read_ascii.c.ds",
-        "name": "Calculate Primes.hms"
+        "path": "./mensa.txt",
+        "name": "Mensa_18-09-24.txt"
       }
     ],
     "language": "c"
