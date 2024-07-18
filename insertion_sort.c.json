@@ -19,7 +19,7 @@
         "name": "50k_uint32_array.bin"
       },
       {
-        "path": "./uint32_t_array_100.bin",
+        "path": "./uint32_t_array_100k.bin",
         "name": "100k_uint32_array.bin"
       }
     ],
