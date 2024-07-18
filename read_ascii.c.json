@@ -3,6 +3,10 @@
     "codePath": "./read_ascii.c",
     "datasets": [
       {
+        "path": "./reef_logo.txt",
+        "name": "Reef_Logo.txt"
+      },
+      {
         "path": "./read_ascii.c.ds",
         "name": "Calculate Primes.hms"
       }
