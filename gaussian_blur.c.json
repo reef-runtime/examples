@@ -1,0 +1,11 @@
+{
+    "name": "Image blurring",
+    "codePath": "gaussian_blur.c",
+    "datasets": [
+      {
+        "path": "./flower.ppm",
+        "name": "Flower.ppm"
+      }
+    ],
+    "language": "c"
+}
